@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="warningview">
+        <attr name="rec_width" format="integer" />
+        <attr name="rec_height" format="integer" />
+    </declare-styleable>
+</resources>
